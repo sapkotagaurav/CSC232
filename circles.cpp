@@ -15,7 +15,7 @@ using namespace std;
 
 // class declaration section	(header file)
 
-// PLACE YOUR NAME HERE
+// Gaurab Sapkota
 
 class Circles
 {

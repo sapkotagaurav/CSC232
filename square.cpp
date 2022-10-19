@@ -1,7 +1,7 @@
 // This program declares the Square class and uses member functions to find
 // the perimeter and area of the square
 
-// PLACE YOUR NAME HERE
+//Gaurab Sapkota
 
 #include <iostream>
 using namespace std;
